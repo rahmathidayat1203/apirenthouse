@@ -7,4 +7,4 @@
   <picture>
   <img alt="shows sreenshot api" src="/postmanResources/screenshotpostman1.png">
 </picture>
-</picture>
+
